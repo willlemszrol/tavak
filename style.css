@@ -1,0 +1,79 @@
+table{
+    border: 2px solid rgb(160, 150, 250);
+    border-radius: 5px;
+    height: 800px;
+    width: 1200/7;
+}
+tr{
+border: 2px solid black;
+margin-top: 0;
+padding-top: 0;
+}
+td{
+    border: 2px solid black;
+padding: 0;
+border-radius: 7px;
+background-color: rgb(219, 213, 252);
+text-align: center;
+box-shadow: 2px 2px rgb(2, 2, 161);
+border-color:rgb(77, 54, 129);
+width: 170px;
+height: 110px;
+}
+th{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 7px;
+    color: darkblue;
+    width: 150px;
+    box-shadow: 2px 2px rgb(2, 2, 161);
+    
+}
+.ib{
+    background-color: rgb(194, 174, 255);
+    color: darkblue;
+    width: 160px;
+   height: 110px;
+   
+}
+.li{
+    background-color: rgb(162, 138, 248);
+    width: 150px;
+    height: 100px;
+}
+img{
+   width: 170px;
+   height: 110px;
+   padding-bottom: 0px;
+   margin-bottom: 0px;
+   padding: 0px;
+   padding-bottom: 0px;
+   padding-left: 0px;
+   padding-top: 0%;
+   margin-bottom: 0px;
+   margin-top: 0px;
+   padding-right: 0px;
+   margin-right: 0px;
+
+}
+.sz{
+    background-color: lightgray;
+}
+.piros{
+    color: red;
+    border-color: rgb(77, 54, 129);
+}
+    
+}
+.kep{
+    padding: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-top: 0%;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-right: 0;
+    margin-right: 0;
+
+
+}
